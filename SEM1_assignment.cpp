@@ -5,7 +5,7 @@ using namespace std;
 int i , quantity, menu, package, item;
 float totalprice , price , cash , change;
 
-//process
+// processing
 int main(){
     cout <<"\n      Welcome to Sunway XFarms!" << endl;
     bool end = false;
