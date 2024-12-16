@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//initialization
+// initialization
 int i , quantity, menu, package, item;
 float totalprice , price , cash , change;
 
